@@ -1,0 +1,17 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "pdf/20241108182331_部分1.pdf",
+      "height": 400,
+      "id": "60e8bd10352faec2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -180,
+      "y": -840
+    }
+  ]
+}
